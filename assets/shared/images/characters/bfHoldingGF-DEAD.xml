@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="bfHoldingGF-DEAD.png">
+<!--  Sprite Optimizado por Jere  -->
+<!--  https://youtube.com/channel/UCjVVdBE3EzFVSf7vYsKi-QQ  -->
+<SubTexture name="BF Dead with GF Loop0000" x="598" y="0" width="587" height="444"/>
+<SubTexture name="BF Dies with GF0000" x="598" y="444" width="578" height="456" frameX="-1" frameY="0" frameWidth="591" frameHeight="488"/>
+<SubTexture name="BF Dies with GF0001" x="0" y="491" width="592" height="462" frameX="-1" frameY="0" frameWidth="591" frameHeight="488"/>
+<SubTexture name="RETRY confirm holding gf0000" x="0" y="0" width="598" height="491" frameX="0" frameY="-6" frameWidth="606" frameHeight="498"/>
+</TextureAtlas>

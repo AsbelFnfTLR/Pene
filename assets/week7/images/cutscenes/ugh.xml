@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ugh.png">
+<SubTexture name="TANK TALK 1 P10000" x="0" y="0" width="392" height="572" frameX="-2" frameY="-4" frameWidth="397" frameHeight="576" />
+<SubTexture name="TANK TALK 1 P20000" x="0" y="0" width="392" height="572" frameX="-2" frameY="-4" frameWidth="397" frameHeight="576" />
+</TextureAtlas>
